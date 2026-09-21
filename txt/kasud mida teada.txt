@@ -1,0 +1,31 @@
+Linux systeem
+pwd - print working directroy
+ls - List
+ls -1
+ls -la
+cd kataloog (change director) näiteks: cd ..
+Node.Js
+node failinimi näiteks: node first   (node pameb toole ainult JS faile)
+Unexpectied token ntks sulg ununeb ara
+Let = Variable(muutuja)
+
+lin2.tlu.ee
+
+ssh greeny.cs.tlu.ee -l saar
+
+
+Oleme kataloogis, mida tahame hakata githubiga siduma
+(Project1)
+git clone https://github.com/TristanSaar/TA-project31.git
+
+git remote -v
+
+oma nime seadmine
+git config user.name "Tristan Saar"
+git config --global user.name "Tristan Saar"
+github meiliaadress
+git config user.email TristanSaar@users.noreply.github.com
+git config --global user.email TristanSaar@users.noreply.github.com
+
+GIT staatuse vaatamine
+git status
